@@ -1,6 +1,18 @@
-# tap_payment_markaa
+# Markaa Ecommerce App
+
+Markaa is an Kuwait Based Ecommerce Company, Major in selling Skin care Products.
+ 
+ Technologies used in the APP :
+
+- Flutter
+- Dart
+- Go Sell Tap Payments SDK
+- Google cloud
+
+<a href='https://play.google.com/store/apps/details?id=com.app.markaa&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=80px/></a>
 
 Flutter plugin compatible version of goSellSDK library for both Android and iOS that fully covers payment/authorization/card saving/card tokenization process inside your Android application.
+
 Original SDKS
 
 - Android (https://github.com/Tap-Payments/goSellSDK-Android)
@@ -23,6 +35,11 @@ Original SDKS
    4. [Handle SDK Result](#handle_sdk_result)
 
 <a href="requirements"></a>
+
+
+### Some Screenshots
+
+<img height="480px" src="https://user-images.githubusercontent.com/49696449/126716478-f111723f-0afe-4ac2-9eea-b40b8810a5ea.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716483-cf7db309-3ffc-4b1c-9285-78f7ba36e0b0.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716486-e7b058e1-683a-4b66-971d-ec6b7839617d.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716489-ddef80d3-f64c-4f5c-bf2b-1a6655e9b89e.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716492-a4a54643-3534-4944-a184-54cc84de3db6.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716497-2c0fd14a-e472-46d4-8571-adf99e29a09a.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716499-be18a6b8-3459-43ea-a7bd-311ce553e52c.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716502-8eab47c4-cb44-4836-a6ce-4a445f657e8f.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716505-0a127f6d-0303-4db8-ba23-e9cb33627675.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716509-2df76d29-935a-4d74-8b37-496da92d76e9.png">  <img height="480px" src="https://user-images.githubusercontent.com/49696449/126716512-1da5eccd-bb8f-4b0f-baf0-d20c4e2316d6.png">
 
 # Requirements
 
@@ -323,3 +340,49 @@ void extractSDKResultKeysAndValues() {
 ```
 
 ---
+
+### The stack & building from source
+
+The project is currently built using the latest Flutter Master, with Dart 2 enabled.
+
+To build the project, ensure that you have a recent version of the Flutter SDK installed. Then either run `flutter run` in the project root or use your IDE of choice.
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+
+## Getting Started
+- Clone or download
+- Build and Run
+
+# Pull Requests
+
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
+
+1.  Match the document style as closely as possible.
+2.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
+3.  Pull requests _must_ be made against `master` branch for this particular repository.
+4.  Make sure you follow the set standard as all other projects in this repo do
+5.  Have fun!
+
+
+        
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/instagram-c14438?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+<br />
+<hr />
+
+[twitter]: https://twitter.com/DalpatDc
+[linkedin]: https://www.linkedin.com/in/dalpat-i-b5b451166/
+[instagram]: https://www.instagram.com/dalpat_chaudhary__/
+[Facebook]: https://www.facebook.com/dalpatchaudhary.blogspot.in/
+
+If you have any Queries or Suggestions, feel free to reach out to me.
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
